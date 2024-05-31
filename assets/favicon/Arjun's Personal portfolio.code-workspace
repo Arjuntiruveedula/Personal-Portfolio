@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "New folder",
+			"path": "../.."
+		},
+		{
+			"name": "assets",
+			"path": "../../../portfolio-html-main/src/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "New folder"
+	}
+}
